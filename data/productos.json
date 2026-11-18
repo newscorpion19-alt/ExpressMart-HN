@@ -1,0 +1,532 @@
+[
+  {
+    "id": "P001",
+    "nombre": "Agua purificada 600 ml",
+    "categoria": "Bebidas",
+    "precio": 12,
+    "stock": 150,
+    "disponible": true,
+    "descripcion": "Botella de agua purificada sin gas.",
+    "sinonimos": [
+      "agua",
+      "botellita de agua"
+    ]
+  },
+  {
+    "id": "P002",
+    "nombre": "Refresco de cola 2 L",
+    "categoria": "Bebidas",
+    "precio": 38,
+    "stock": 60,
+    "disponible": true,
+    "descripcion": "Gaseosa sabor cola, botella familiar.",
+    "sinonimos": [
+      "gaseosa",
+      "soda",
+      "coca",
+      "cola"
+    ]
+  },
+  {
+    "id": "P003",
+    "nombre": "Leche deslactosada 1 L",
+    "categoria": "Lácteos",
+    "precio": 36.5,
+    "stock": 25,
+    "disponible": true,
+    "descripcion": "Leche entera sin lactosa en caja.",
+    "sinonimos": [
+      "leche sin lactosa",
+      "deslactosada"
+    ]
+  },
+  {
+    "id": "P004",
+    "nombre": "Pan de molde integral",
+    "categoria": "Panadería",
+    "precio": 45,
+    "stock": 0,
+    "disponible": false,
+    "descripcion": "Pan de molde integral rebanado, 600 g.",
+    "sinonimos": [
+      "pan integral",
+      "pan de caja",
+      "pan"
+    ]
+  },
+  {
+    "id": "P005",
+    "nombre": "Papas fritas 140 g",
+    "categoria": "Snacks",
+    "precio": 32,
+    "stock": 80,
+    "disponible": true,
+    "descripcion": "Bolsa de papas fritas sabor natural.",
+    "sinonimos": [
+      "papitas",
+      "chips",
+      "boquitas"
+    ]
+  },
+  {
+    "id": "P006",
+    "nombre": "Jabón de baño (3 unidades)",
+    "categoria": "Higiene",
+    "precio": 55,
+    "stock": 40,
+    "disponible": true,
+    "descripcion": "Paquete de tres jabones de tocador.",
+    "sinonimos": [
+      "jabon",
+      "jabón de tocador"
+    ]
+  },
+  {
+    "id": "P007",
+    "nombre": "Detergente en polvo 1 kg",
+    "categoria": "Limpieza",
+    "precio": 68,
+    "stock": 18,
+    "disponible": true,
+    "descripcion": "Detergente en polvo para ropa.",
+    "sinonimos": [
+      "jabón en polvo",
+      "detergente",
+      "lavar ropa"
+    ]
+  },
+  {
+    "id": "P008",
+    "nombre": "Jugo de naranja 1 L",
+    "categoria": "Bebidas",
+    "precio": 42,
+    "stock": 35,
+    "disponible": true,
+    "descripcion": "Jugo de naranja en caja, sin azúcar añadida.",
+    "sinonimos": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  {
+    "id": "P009",
+    "nombre": "Agua purificada 1 galón",
+    "categoria": "Bebidas",
+    "precio": 45,
+    "stock": 50,
+    "disponible": true,
+    "descripcion": "Garrafón de agua purificada de 3.78 L.",
+    "sinonimos": [
+      "galon de agua",
+      "garrafa"
+    ]
+  },
+  {
+    "id": "P010",
+    "nombre": "Bebida energizante 473 ml",
+    "categoria": "Bebidas",
+    "precio": 35,
+    "stock": 45,
+    "disponible": true,
+    "descripcion": "Lata de bebida energizante.",
+    "sinonimos": [
+      "energizante",
+      "energética"
+    ]
+  },
+  {
+    "id": "P011",
+    "nombre": "Cerveza lata 355 ml",
+    "categoria": "Bebidas",
+    "precio": 28,
+    "stock": 120,
+    "disponible": true,
+    "descripcion": "Cerveza nacional en lata. Venta solo a mayores de 18 años.",
+    "sinonimos": [
+      "birra",
+      "cerveza",
+      "lata"
+    ]
+  },
+  {
+    "id": "P012",
+    "nombre": "Té frío de limón 500 ml",
+    "categoria": "Bebidas",
+    "precio": 22,
+    "stock": 40,
+    "disponible": true,
+    "descripcion": "Té frío sabor limón.",
+    "sinonimos": [
+      "te frio",
+      "té helado"
+    ]
+  },
+  {
+    "id": "P013",
+    "nombre": "Leche entera 1 L",
+    "categoria": "Lácteos",
+    "precio": 32,
+    "stock": 40,
+    "disponible": true,
+    "descripcion": "Leche entera en caja.",
+    "sinonimos": [
+      "leche"
+    ]
+  },
+  {
+    "id": "P014",
+    "nombre": "Yogurt natural 1 L",
+    "categoria": "Lácteos",
+    "precio": 48,
+    "stock": 22,
+    "disponible": true,
+    "descripcion": "Yogurt natural sin azúcar.",
+    "sinonimos": [
+      "yogur",
+      "yogurt"
+    ]
+  },
+  {
+    "id": "P015",
+    "nombre": "Queso fresco 1 lb",
+    "categoria": "Lácteos",
+    "precio": 70,
+    "stock": 15,
+    "disponible": true,
+    "descripcion": "Queso fresco tipo hondureño, empacado.",
+    "sinonimos": [
+      "queso",
+      "quesillo"
+    ]
+  },
+  {
+    "id": "P016",
+    "nombre": "Mantequilla 225 g",
+    "categoria": "Lácteos",
+    "precio": 44,
+    "stock": 20,
+    "disponible": true,
+    "descripcion": "Barra de mantequilla con sal.",
+    "sinonimos": [
+      "mantequilla",
+      "margarina"
+    ]
+  },
+  {
+    "id": "P017",
+    "nombre": "Crema 200 g",
+    "categoria": "Lácteos",
+    "precio": 30,
+    "stock": 28,
+    "disponible": true,
+    "descripcion": "Crema fresca en bolsa.",
+    "sinonimos": [
+      "crema",
+      "natilla"
+    ]
+  },
+  {
+    "id": "P018",
+    "nombre": "Pan francés (6 unidades)",
+    "categoria": "Panadería",
+    "precio": 30,
+    "stock": 30,
+    "disponible": true,
+    "descripcion": "Bolsa de seis panes franceses del día.",
+    "sinonimos": [
+      "pan francés",
+      "pan blanco",
+      "bolillo"
+    ]
+  },
+  {
+    "id": "P019",
+    "nombre": "Pan para hamburguesa (6 unidades)",
+    "categoria": "Panadería",
+    "precio": 38,
+    "stock": 25,
+    "disponible": true,
+    "descripcion": "Bolsa de seis panes para hamburguesa.",
+    "sinonimos": [
+      "pan de hamburguesa",
+      "pan de hamburguesas"
+    ]
+  },
+  {
+    "id": "P020",
+    "nombre": "Tortillas de maíz (paquete 12)",
+    "categoria": "Panadería",
+    "precio": 25,
+    "stock": 0,
+    "disponible": false,
+    "descripcion": "Paquete de doce tortillas de maíz.",
+    "sinonimos": [
+      "tortillas",
+      "tortilla de maiz"
+    ]
+  },
+  {
+    "id": "P021",
+    "nombre": "Galletas de soda",
+    "categoria": "Snacks",
+    "precio": 20,
+    "stock": 70,
+    "disponible": true,
+    "descripcion": "Paquete de galletas saladas.",
+    "sinonimos": [
+      "galletas saladas",
+      "galleta"
+    ]
+  },
+  {
+    "id": "P022",
+    "nombre": "Galletas rellenas de chocolate",
+    "categoria": "Snacks",
+    "precio": 18,
+    "stock": 90,
+    "disponible": true,
+    "descripcion": "Paquete de galletas rellenas.",
+    "sinonimos": [
+      "galletas de chocolate",
+      "galleta rellena"
+    ]
+  },
+  {
+    "id": "P023",
+    "nombre": "Platanitos fritos 100 g",
+    "categoria": "Snacks",
+    "precio": 24,
+    "stock": 65,
+    "disponible": true,
+    "descripcion": "Bolsa de platanitos fritos.",
+    "sinonimos": [
+      "platanitos",
+      "tajadas",
+      "chips de plátano"
+    ]
+  },
+  {
+    "id": "P024",
+    "nombre": "Maní salado 100 g",
+    "categoria": "Snacks",
+    "precio": 20,
+    "stock": 55,
+    "disponible": true,
+    "descripcion": "Bolsa de maní salado.",
+    "sinonimos": [
+      "mani",
+      "cacahuate"
+    ]
+  },
+  {
+    "id": "P025",
+    "nombre": "Chocolate en barra 40 g",
+    "categoria": "Snacks",
+    "precio": 15,
+    "stock": 100,
+    "disponible": true,
+    "descripcion": "Barra de chocolate con leche.",
+    "sinonimos": [
+      "chocolate",
+      "barra de chocolate"
+    ]
+  },
+  {
+    "id": "P026",
+    "nombre": "Shampoo 400 ml",
+    "categoria": "Higiene",
+    "precio": 85,
+    "stock": 26,
+    "disponible": true,
+    "descripcion": "Shampoo para uso diario.",
+    "sinonimos": [
+      "champú",
+      "champu"
+    ]
+  },
+  {
+    "id": "P027",
+    "nombre": "Pasta dental 100 ml",
+    "categoria": "Higiene",
+    "precio": 38,
+    "stock": 45,
+    "disponible": true,
+    "descripcion": "Crema dental con flúor.",
+    "sinonimos": [
+      "crema dental",
+      "pasta de dientes",
+      "colgate"
+    ]
+  },
+  {
+    "id": "P028",
+    "nombre": "Desodorante en barra",
+    "categoria": "Higiene",
+    "precio": 62,
+    "stock": 30,
+    "disponible": true,
+    "descripcion": "Desodorante antitranspirante en barra.",
+    "sinonimos": [
+      "desodorante"
+    ]
+  },
+  {
+    "id": "P029",
+    "nombre": "Papel higiénico (4 rollos)",
+    "categoria": "Higiene",
+    "precio": 48,
+    "stock": 60,
+    "disponible": true,
+    "descripcion": "Paquete de cuatro rollos de papel higiénico.",
+    "sinonimos": [
+      "papel de baño",
+      "papel toalet",
+      "papel"
+    ]
+  },
+  {
+    "id": "P030",
+    "nombre": "Toallas sanitarias (10 unidades)",
+    "categoria": "Higiene",
+    "precio": 42,
+    "stock": 35,
+    "disponible": true,
+    "descripcion": "Paquete de diez toallas sanitarias.",
+    "sinonimos": [
+      "toallas femeninas",
+      "toallitas"
+    ]
+  },
+  {
+    "id": "P031",
+    "nombre": "Cloro 1 L",
+    "categoria": "Limpieza",
+    "precio": 28,
+    "stock": 40,
+    "disponible": true,
+    "descripcion": "Cloro desinfectante.",
+    "sinonimos": [
+      "lejía",
+      "blanqueador",
+      "cloro"
+    ]
+  },
+  {
+    "id": "P032",
+    "nombre": "Lavaplatos líquido 500 ml",
+    "categoria": "Limpieza",
+    "precio": 40,
+    "stock": 32,
+    "disponible": true,
+    "descripcion": "Jabón líquido para trastes.",
+    "sinonimos": [
+      "jabón de trastes",
+      "lavatrastes",
+      "lava platos"
+    ]
+  },
+  {
+    "id": "P033",
+    "nombre": "Desinfectante de piso 1 L",
+    "categoria": "Limpieza",
+    "precio": 52,
+    "stock": 22,
+    "disponible": true,
+    "descripcion": "Desinfectante aroma lavanda.",
+    "sinonimos": [
+      "desinfectante",
+      "limpiapisos"
+    ]
+  },
+  {
+    "id": "P034",
+    "nombre": "Esponja de cocina (2 unidades)",
+    "categoria": "Limpieza",
+    "precio": 18,
+    "stock": 50,
+    "disponible": true,
+    "descripcion": "Paquete de dos esponjas.",
+    "sinonimos": [
+      "esponja",
+      "fibra"
+    ]
+  },
+  {
+    "id": "P035",
+    "nombre": "Bolsas de basura (10 unidades)",
+    "categoria": "Limpieza",
+    "precio": 35,
+    "stock": 38,
+    "disponible": true,
+    "descripcion": "Bolsas de basura medianas.",
+    "sinonimos": [
+      "bolsas de basura",
+      "bolsas"
+    ]
+  },
+  {
+    "id": "P036",
+    "nombre": "Arroz 1 lb",
+    "categoria": "Abarrotes",
+    "precio": 16,
+    "stock": 100,
+    "disponible": true,
+    "descripcion": "Arroz blanco grano largo.",
+    "sinonimos": [
+      "arroz"
+    ]
+  },
+  {
+    "id": "P037",
+    "nombre": "Frijoles rojos 1 lb",
+    "categoria": "Abarrotes",
+    "precio": 24,
+    "stock": 80,
+    "disponible": true,
+    "descripcion": "Frijoles rojos de seda.",
+    "sinonimos": [
+      "frijoles",
+      "frijol"
+    ]
+  },
+  {
+    "id": "P038",
+    "nombre": "Aceite vegetal 500 ml",
+    "categoria": "Abarrotes",
+    "precio": 46,
+    "stock": 35,
+    "disponible": true,
+    "descripcion": "Aceite vegetal de cocina.",
+    "sinonimos": [
+      "aceite"
+    ]
+  },
+  {
+    "id": "P039",
+    "nombre": "Huevos (cartón de 30)",
+    "categoria": "Abarrotes",
+    "precio": 120,
+    "stock": 12,
+    "disponible": true,
+    "descripcion": "Cartón de treinta huevos.",
+    "sinonimos": [
+      "huevos",
+      "cartón de huevos"
+    ]
+  },
+  {
+    "id": "P040",
+    "nombre": "Recarga celular L 50",
+    "categoria": "Recargas",
+    "precio": 50,
+    "stock": 999,
+    "disponible": true,
+    "descripcion": "Recarga de saldo por L 50 para línea celular. Requiere número de teléfono al ordenar en la tienda.",
+    "sinonimos": [
+      "recarga",
+      "saldo",
+      "tigo",
+      "claro"
+    ]
+  }
+]

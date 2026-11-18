@@ -1,0 +1,39 @@
+{
+  "tienda": "ExpressMart HN",
+  "ciudad": "San Pedro Sula, Cortés, Honduras",
+  "moneda": "Lempiras (L)",
+  "horario": {
+    "lunes_a_sabado": {
+      "abre": "07:00",
+      "cierra": "21:00"
+    },
+    "domingo": {
+      "abre": "08:00",
+      "cierra": "18:00"
+    }
+  },
+  "horario_texto": "Lunes a sábado de 7:00 a. m. a 9:00 p. m.; domingos de 8:00 a. m. a 6:00 p. m.",
+  "envio": {
+    "zona": "San Pedro Sula",
+    "costo": 40,
+    "gratis_desde": 500,
+    "tiempo_estimado": "45 a 90 minutos"
+  },
+  "pagos": [
+    "Efectivo contra entrega",
+    "Tarjeta",
+    "Transferencia"
+  ],
+  "estados_pedido": [
+    "Recibido",
+    "En preparación",
+    "En camino",
+    "Entregado"
+  ],
+  "whatsapp": "+504 9999-0000 (número ficticio de ejemplo)",
+  "politicas": [
+    "No se venden bebidas alcohólicas a menores de 18 años.",
+    "Los pedidos solo se consultan con el número de pedido (formato EM-0000).",
+    "El stock mostrado es simulado y puede variar."
+  ]
+}
