@@ -4,8 +4,7 @@ Asistente virtual con IA para una tienda de conveniencia en línea de San Pedro 
  
 > Proyecto de clase (Inteligencia Artificial Aplicada, UTH). Los datos de la tienda son **simulados**.
  
-**Demo en vivo:** https://TU-SITIO.netlify.app
- 
+**Demo en vivo:** https://resilient-entremet-217375.netlify.app/ 
 ## Qué hace
 - Contesta en español (entiende expresiones como «ocupo» y errores de ortografía).
 - Consulta el catálogo (40 productos), los horarios y 10 pedidos de ejemplo (formato `EM-1042`).
